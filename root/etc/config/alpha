@@ -34,7 +34,7 @@ config navbar
 	option line '4'
 	option newtab 'No'
 	option icon '/www/luci-static/alpha/gaya/icon/navbar/neko.png'
-	option address '/cgi-bin/luci/admin/services/neko'
+	option address '/cgi-bin/luci/admin/modem/sms'
 
 config navbar
 	option name 'Modem'
